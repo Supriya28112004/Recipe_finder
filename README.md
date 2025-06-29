@@ -2,7 +2,7 @@
 
 https://github.com/Supriya28112004/Jwt_assignment
 
-## Run this app locally ##
+## Run Recipe Finder app locally ##
 
 http://localhost:5173/
 
