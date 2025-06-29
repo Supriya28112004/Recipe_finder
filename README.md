@@ -1,4 +1,4 @@
-## This is the link of JWT-assignment-2 ##
+## This is the link of JWT-assignment ##
 
 https://github.com/Supriya28112004/Jwt_assignment
 
